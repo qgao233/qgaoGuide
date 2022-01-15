@@ -1,8 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [介绍](#%E4%BB%8B%E7%BB%8D)
+  - [前言](#%E5%89%8D%E8%A8%80)
+  - [垂直细分](#%E5%9E%82%E7%9B%B4%E7%BB%86%E5%88%86)
+  - [有问必有答，无答必有解](#%E6%9C%89%E9%97%AE%E5%BF%85%E6%9C%89%E7%AD%94%E6%97%A0%E7%AD%94%E5%BF%85%E6%9C%89%E8%A7%A3)
+- [实现](#%E5%AE%9E%E7%8E%B0)
+  - [java后端](#java%E5%90%8E%E7%AB%AF)
+  - [web端](#web%E7%AB%AF)
+  - [app端](#app%E7%AB%AF)
+- [我的学习笔记](#%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
+- [未来期望](#%E6%9C%AA%E6%9D%A5%E6%9C%9F%E6%9C%9B)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <div style="font-size:50px;text-align:center;font-weight:bold">qgaoGuide</div>
 
 # 介绍
-
-[toc]
 
 点子希望能有更多人参与进来分享自己的智慧，展现自己的才华。
 
